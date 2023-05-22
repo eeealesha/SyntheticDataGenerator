@@ -1,6 +1,6 @@
-# SynteticDataGenerator
+# SyntheticDataGenerator
 
-SynteticDataGenerator: A Python library for data analysts to generate synthetic datasets
+SyntheticDataGenerator: A Python library for data analysts to generate synthetic datasets
 
 # Example usage
 
