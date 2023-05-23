@@ -1,0 +1,27 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "sonne2023",
+      "name": "Natalia Chernikova",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129782624?v=4",
+      "profile": "https://github.com/sonne2023",
+      "contributions": [
+        "code",
+        "content",
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "SyntheticDataGenerator",
+  "projectOwner": "eeealesha"
+}
