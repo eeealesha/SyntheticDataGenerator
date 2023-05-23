@@ -1,9 +1,10 @@
-# SynteticDataGenerator
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-SynteticDataGenerator: A Python library for data analysts to generate synthetic datasets
+# SyntheticDataGenerator
+
+SyntheticDataGenerator: A Python library for data analysts to generate synthetic datasets
 
 # Example usage
 
