@@ -13,7 +13,9 @@ column_specs = [
     ('Column1', 'int'),
     ('Column2', 'float'),
     ('Column3', 'str'),
-    ('Column4', 'date')
+    ('Column4', 'date'),
+    ('Column5', 'int_uniq'),
+    ('Column6', 'bool')
 ]
 num_rows = 10
 include_nulls = False
