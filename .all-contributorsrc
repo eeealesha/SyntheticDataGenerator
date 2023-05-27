@@ -16,6 +16,17 @@
         "content",
         "bug"
       ]
+    },
+    {
+      "login": "stanchiks",
+      "name": "Stanislav Kaliberda",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134650631?v=4",
+      "profile": "https://github.com/stanchiks",
+      "contributions": [
+        "code",
+        "data",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -23,5 +34,6 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "projectName": "SyntheticDataGenerator",
-  "projectOwner": "eeealesha"
+  "projectOwner": "eeealesha",
+  "commitType": "docs"
 }
