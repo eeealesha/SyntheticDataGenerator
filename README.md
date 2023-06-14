@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # SyntheticDataGenerator
@@ -38,6 +38,7 @@ print(df)
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/sonne2023"><img src="https://avatars.githubusercontent.com/u/129782624?v=4?s=100" width="100px;" alt="Natalia Chernikova"/><br /><sub><b>Natalia Chernikova</b></sub></a><br /><a href="https://github.com/eeealesha/SyntheticDataGenerator/commits?author=sonne2023" title="Code">💻</a> <a href="#content-sonne2023" title="Content">🖋</a> <a href="https://github.com/eeealesha/SyntheticDataGenerator/issues?q=author%3Asonne2023" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/stanchiks"><img src="https://avatars.githubusercontent.com/u/134650631?v=4?s=100" width="100px;" alt="Stanislav Kaliberda"/><br /><sub><b>Stanislav Kaliberda</b></sub></a><br /><a href="https://github.com/eeealesha/SyntheticDataGenerator/commits?author=stanchiks" title="Code">💻</a> <a href="#data-stanchiks" title="Data">🔣</a> <a href="#ideas-stanchiks" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/bantichsasha"><img src="https://avatars.githubusercontent.com/u/136418848?v=4?s=100" width="100px;" alt="bantichsasha"/><br /><sub><b>bantichsasha</b></sub></a><br /><a href="https://github.com/eeealesha/SyntheticDataGenerator/commits?author=bantichsasha" title="Code">💻</a> <a href="https://github.com/eeealesha/SyntheticDataGenerator/commits?author=bantichsasha" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
